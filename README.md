@@ -36,7 +36,7 @@ export default () => ({
       php: ["laravel"],
     },
     databases: ["mysql", "mongo"],
-    databases: ["figma", "miro"]
+    design: ["figma", "miro"]
   },
 });
 ```
